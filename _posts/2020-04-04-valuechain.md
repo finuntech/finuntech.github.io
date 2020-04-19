@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Valuechain"
-date: 2020-04-04
-show_tile:false
-----
+title: "The UnTECH Blog is Launched"
+date: 2020-04-19
+---
 
 <h1>Value Chain Analysis, Value Stream Mapping, and Business Process Mapping &mdash; What is the difference?</h1>
 <p data-selectable-paragraph="">As a management consultant who specializes in Technology Transformation strategy and Business Architecture, clients often ask me about the difference in the above terms, as we use these in our presentations and work products. I have noticed that sometimes these terms are used interchangeably and are often misplaced, and that may be quite confusing. Through this write-up, I seek to add clarity to these terms and attempt to provide a guideline on when to use what.</p>
