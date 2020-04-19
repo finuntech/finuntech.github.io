@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The UnTech Blog is Launched"
-date: 2014-04-30
+title: "The UnTECH Blog is Launched"
+date: 2020-04-19
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Put together the Untech Blog Site on [GitHub](http://www.github.com). The Blog is powered by [Jekyll](http://jekyllrb.com), which is an open source Ruby based CMS platform that allows me to use Markdown to author my posts. It is fairly easy.
