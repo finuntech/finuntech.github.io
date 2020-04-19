@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Value Chain"
+title: "valuechain"
 date: 2020-04-19
 ---
 
