@@ -3,21 +3,12 @@ layout:post
 title: "Value Chain Analysis, Value Stream Mapping, and Business Process Mapping; What is the difference?"
 date: 2020-04-04
 ----
+<h1>Value Chain Analysis, Value Stream Mapping, and Business Process Mapping &mdash; What is the difference?</h1>
 <p data-selectable-paragraph="">As a management consultant who specializes in Technology Transformation strategy and Business Architecture, clients often ask me about the difference in the above terms, as we use these in our presentations and work products. I have noticed that sometimes these terms are used interchangeably and are often misplaced, and that may be quite confusing. Through this write-up, I seek to add clarity to these terms and attempt to provide a guideline on when to use what.</p>
 <p data-selectable-paragraph="">Let&rsquo;s acknowledge that there is a significant amount of conceptual overlap in the framing of Value Chains, Value Streams and Business Processes, and hence there is a proclivity for practitioners to use these terms interchangeably. However, there are some important distinctions too, which I attempt to highlight below. And to dig out these differences, I would rely on the etymological origins of these frameworks. (<em>Etymology: The origin of a word and the historical development of its meaning</em>).</p>
 <p data-selectable-paragraph="">VALUE CHAIN:</p>
 <p data-selectable-paragraph="">Michael Porter, in his 1985 book, &ldquo;Competitive Advantage: Creating and Sustaining Superior Performance&rdquo;, first introduced the concept of Value Chain framework. Porter posited that an organization creates value for its customer through a set of strategically relevant activities, those of which when seen from left to right (below) looks like a chain where value-addition to the organization and its stakeholders increases from left to right. According to Porter, a firm derives its competitive advantage from strategic choices it makes in one or more of its value chain activities.</p>
-<figure>
-<div>
-<div>
-<div>
-<div>
-<div><img src="https://miro.medium.com/max/30/1*r8iSRbkJvo_gMZkpMd_8KQ.png?q=20" alt="" width="426" height="244" /></div>
-<img src="https://miro.medium.com/max/426/1*r8iSRbkJvo_gMZkpMd_8KQ.png" sizes="426px" srcset="https://miro.medium.com/max/276/1*r8iSRbkJvo_gMZkpMd_8KQ.png 276w, https://miro.medium.com/max/426/1*r8iSRbkJvo_gMZkpMd_8KQ.png 426w" alt="" width="426" height="244" /></div>
-</div>
-</div>
-</div>
-</figure>
+<figure><img src="https://miro.medium.com/max/426/1*r8iSRbkJvo_gMZkpMd_8KQ.png" sizes="426px" srcset="https://miro.medium.com/max/276/1*r8iSRbkJvo_gMZkpMd_8KQ.png 276w, https://miro.medium.com/max/426/1*r8iSRbkJvo_gMZkpMd_8KQ.png 426w" alt="" width="426" height="244" /></figure>
 <p data-selectable-paragraph="">From Porter&rsquo;s framework, we can make three important observations</p>
 <p data-selectable-paragraph="">1. Value Chain Analysis is a decision support tool for an organization level (or aggregate level) strategy making. It is not meant for granular business process analysis. For example, if a practitioner is attempting to analyze the Know Your Customer (KYC) processes of a bank, then Value Chain is not the right tool for consideration.</p>
 <p data-selectable-paragraph="">2. Value chain is a special category of a left-to-right process model, usually described through a set of chevrons, where each chevron represents a rolled-up set of activities that an organization does. Value (to the organization) cumulates from left to right as it passes through the chain, and each chevron is dependent on its preceding one to its left but is relatively independent of the succeeding one to its right.</p>
@@ -30,13 +21,7 @@ date: 2020-04-04
 <p data-selectable-paragraph="">3. Often Time and Quality parameters are overlaid on Value Streams, esp. for Process Improvement or Process Automation analysis, but they are not done so on Value Chains (see below).</p>
 <p data-selectable-paragraph="">4. Since Time dimension can easily be overlaid onto a Value Stream, it is a good tool to describe phases of work, unlike Value Chains.</p>
 <figure>
-<div>
-<div>
-<div>
-<div><img src="https://miro.medium.com/max/30/1*xOCTjZusCE2577iAC1rnLg.png?q=20" alt="" width="624" height="332" /></div>
-<img src="https://miro.medium.com/max/624/1*xOCTjZusCE2577iAC1rnLg.png" sizes="624px" srcset="https://miro.medium.com/max/276/1*xOCTjZusCE2577iAC1rnLg.png 276w, https://miro.medium.com/max/552/1*xOCTjZusCE2577iAC1rnLg.png 552w, https://miro.medium.com/max/624/1*xOCTjZusCE2577iAC1rnLg.png 624w" alt="" width="624" height="332" /></div>
-</div>
-</div>
+<div><img src="https://miro.medium.com/max/624/1*xOCTjZusCE2577iAC1rnLg.png" sizes="624px" srcset="https://miro.medium.com/max/276/1*xOCTjZusCE2577iAC1rnLg.png 276w, https://miro.medium.com/max/552/1*xOCTjZusCE2577iAC1rnLg.png 552w, https://miro.medium.com/max/624/1*xOCTjZusCE2577iAC1rnLg.png 624w" alt="" width="624" height="332" /></div>
 <figcaption data-selectable-paragraph="">Illustrative Software Development Value Stream (courtesy Plutora.com)</figcaption>
 </figure>
 <p data-selectable-paragraph="">BUSINESS PROCESS:</p>
@@ -51,10 +36,6 @@ date: 2020-04-04
 <p data-selectable-paragraph="">3. Activities in a business process can be short-termed or longer. A typical process flow is independent of time and quality parameters, unless you chose to overlay those on the flow to give it additional meaning</p>
 <p data-selectable-paragraph="">4. Process flows are great to describe phases or projects when time-dimension is added to it.</p>
 <figure>
-<div>
-<div>
-<div>
-<div><img src="https://miro.medium.com/max/30/1*9HJZhOMFNdpoGqvV6riWew.png?q=20" alt="" width="624" height="277" /></div>
-<img src="https://miro.medium.com/max/624/1*9HJZhOMFNdpoGqvV6riWew.png" sizes="624px" srcset="https://miro.medium.com/max/276/1*9HJZhOMFNdpoGqvV6riWew.png 276w, https://miro.medium.com/max/552/1*9HJZhOMFNdpoGqvV6riWew.png 552w, https://miro.medium.com/max/624/1*9HJZhOMFNdpoGqvV6riWew.png 624w" alt="" width="624" height="277" /></div>
-</div>
-</div>
+<div><img src="https://miro.medium.com/max/624/1*9HJZhOMFNdpoGqvV6riWew.png" sizes="624px" srcset="https://miro.medium.com/max/276/1*9HJZhOMFNdpoGqvV6riWew.png 276w, https://miro.medium.com/max/552/1*9HJZhOMFNdpoGqvV6riWew.png 552w, https://miro.medium.com/max/624/1*9HJZhOMFNdpoGqvV6riWew.png 624w" alt="" width="624" height="277" /></div>
+<figcaption data-selectable-paragraph="">Typical Car Sales Process (courtesy: Microsoft.com</figcaption>
+</figure>
