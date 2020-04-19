@@ -2,6 +2,7 @@
 layout: post
 title: "Valuechain"
 date: 2020-04-04
+show_tile:false
 ----
 
 <h1>Value Chain Analysis, Value Stream Mapping, and Business Process Mapping &mdash; What is the difference?</h1>
