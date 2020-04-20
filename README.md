@@ -1,2 +1,2 @@
 # Finun.tech
-Bridging Banking and Finance and Technology in an non-obscurantist manner
+Bridging Banking and Finance with Technology in an non-obscurantist manner
