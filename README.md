@@ -1,2 +1,2 @@
-# untech
-Technology Concepts for Business Users and the Common Man
+# Finun.tech
+Bridging Banking and Finance and Technology in an non-obscurantist manner
