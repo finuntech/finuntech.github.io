@@ -4,6 +4,8 @@ title: "valuechain"
 date: 2020-04-04
 ---
 
+>Post By: Niloy Sengupta. Dated: Apr 04, 2020. First published in Medium.com
+
 <h1>Value Chain Analysis, Value Stream Mapping, and Business Process Mapping &mdash; What is the difference?</h1>
 <p data-selectable-paragraph="">As a management consultant who specializes in Technology Transformation strategy and Business Architecture, clients often ask me about the difference in the above terms, as we use these in our presentations and work products. I have noticed that sometimes these terms are used interchangeably and are often misplaced, and that may be quite confusing. Through this write-up, I seek to add clarity to these terms and attempt to provide a guideline on when to use what.</p>
 <p data-selectable-paragraph="">Let&rsquo;s acknowledge that there is a significant amount of conceptual overlap in the framing of Value Chains, Value Streams and Business Processes, and hence there is a proclivity for practitioners to use these terms interchangeably. However, there are some important distinctions too, which I attempt to highlight below. And to dig out these differences, I would rely on the etymological origins of these frameworks. (<em>Etymology: The origin of a word and the historical development of its meaning</em>).</p>
