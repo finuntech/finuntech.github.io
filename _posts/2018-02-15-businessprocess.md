@@ -1,8 +1,9 @@
 ---
-layout:post
-title: businessprocess
-date:2018-02-15
+layout: post
+title: "businessprocess"
+date: 2018-02-15
 ---
+
 >Post by Niloy Sengupta. Dated Feb 15,2018
 
 # Business Service, Business Capability, Business Process: What's the difference?
