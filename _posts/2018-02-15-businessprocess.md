@@ -8,7 +8,7 @@ date: 2018-02-15
 
 # Business Service, Business Capability, Business Process: What's the difference?
 
-![Stop Check BusinessProcess](/_images/Check_Process.GIF)  ![Stop_Check_Capability](/_images/Stop_Pay_Capability.GIF)
+![Stop Check BusinessProcess](https://github.com/finuntech/finuntech.github.io/blob/master/_images/Check_Process.GIF)  ![Stop_Check_Capability](../_images/Stop_Pay_Capability.GIF)
 
 
 The other day, I was in a meeting with a few senior leaders of a large bank and the above topic was discussed. There was a spirited debate and most folks felt that having so many constructs confuses the hell out of everyone and we should have one model.I got a chance to speak and I think I settled the debate. This is what I said.
