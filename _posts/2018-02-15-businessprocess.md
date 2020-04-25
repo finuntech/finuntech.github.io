@@ -7,6 +7,7 @@ date: 2018-02-15
 >Post by Niloy Sengupta. Dated: Feb 15, 2018
 
 # Business Service, Business Capability, Business Process: What's the difference?
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188130660@N03/49818817902/in/dateposted-public/" title="Stop_Pay_Capability"><img src="https://live.staticflickr.com/65535/49818817902_3cc53a2328_w.jpg" width="400" height="365" alt="Stop_Pay_Capability"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <img class="img-responsive" src="https://flic.kr/p/2iUjsUf" alt="Stop Check Capability"/>
 
