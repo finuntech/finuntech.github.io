@@ -8,7 +8,9 @@ date: 2018-02-15
 
 # Business Service, Business Capability, Business Process: What's the difference?
 
-<img src="https://github.com/finuntech/finuntech.github.io/blob/master/_images/Check_Process.GIF" height="700px" width="500px"/>
+<figure>
+  <img src="https://github.com/finuntech/finuntech.github.io/blob/master/_images/Check_Process.GIF" alt="Stop Check Capability" height="400px" width="300px"/>
+</figure>
 ![Stop_Check_Capability](../_images/Stop_Pay_Capability.GIF){:height="700px" width="500px"}
 
 
