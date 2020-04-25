@@ -8,7 +8,7 @@ date: 2018-02-15
 
 # Business Service, Business Capability, Business Process: What's the difference?
 
-<figure><img class="img-responsive" src="../_images/Stop_Pay_Capability.GIF"/></figure>
+<img class="img-responsive" src="../_images/Stop_Pay_Capability.GIF"/>
 
 The other day, I was in a meeting with a few senior leaders of a large bank and the above topic was discussed. There was a spirited debate and most folks felt that having so many constructs confuses the hell out of everyone and we should have one model.I got a chance to speak and I think I settled the debate. This is what I said.
 
