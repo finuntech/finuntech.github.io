@@ -7,7 +7,7 @@ date: 2018-02-15
 >Post by Niloy Sengupta. Dated: Feb 15, 2018
 
 # Business Service, Business Capability, Business Process: What's the difference?
-![Stop Pay Capability](https://vnekyw.bn.files.1drv.com/y4mAPvW9Y2Vze-LkOK2sMG4_oOAOrOXNEM4EU94RU7t1w5XEZr5CpjgPYXveZ_Gj__4GYwTt2CC98sywyJsHvSRMKJQxh6joNiLpBpQOMiE_rPqr24xU6YoZrdXo_mxCV_TX1AiKEQqvI-66INLcz5djQXy1EKBVbhp8Gk3FSVLtFuKH4qfdpk4H8Vyw70bceUL7OCpWBOC0XQe9AB_R7oYVA?width=422&height=385&cropmode=none)
+![Stop Pay Capability](https://vnekyw.bn.files.1drv.com/y4mAPvW9Y2Vze-LkOK2sMG4_oOAOrOXNEM4EU94RU7t1w5XEZr5CpjgPYXveZ_Gj__4GYwTt2CC98sywyJsHvSRMKJQxh6joNiLpBpQOMiE_rPqr24xU6YoZrdXo_mxCV_TX1AiKEQqvI-66INLcz5djQXy1EKBVbhp8Gk3FSVLtFuKH4qfdpk4H8Vyw70bceUL7OCpWBOC0XQe9AB_R7oYVA?width=422&height=385&cropmode=none) ![Stop Check Process](https://vnedha.bn.files.1drv.com/y4m_6ys5UV0DZR0h_8PafYGjXTQZ4djgnNgVwIU4Uuh6poFXb_7IaJdjchvEs_eY_fPUX5w-wHREV9CYQsFAypGxJCsBeHxelPXc40ALWTd5F6IwWzoDEUBkPPJux_lgMF3EVDJ7Y0sWkmMdMOnfNCdACgweW6uoxYB0s4buatb8cc2nr6fZcmQhrCeriobhg2GfeI9_Hq70v6wDXMa6FW0Sw?width=405&height=392&cropmode=none)
 
 The other day, I was in a meeting with a few senior leaders of a large bank and the above topic was discussed. There was a spirited debate and most folks felt that having so many constructs confuses the hell out of everyone and we should have one model.I got a chance to speak and I think I settled the debate. This is what I said.
 
