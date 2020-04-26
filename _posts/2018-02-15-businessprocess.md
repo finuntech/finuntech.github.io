@@ -2,7 +2,6 @@
 layout: post
 title: "businessprocess"
 date: 2018-02-15
-comments:true
 ---
 
 >Post by Niloy Sengupta. Dated: Feb 15, 2018
