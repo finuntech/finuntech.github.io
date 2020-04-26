@@ -2,7 +2,6 @@
 layout: post
 title: "valuechain"
 date: 2020-04-04
-comments:true
 ---
 
 >Post By: Niloy Sengupta. Dated: Apr 04, 2020. First published in Medium.com
